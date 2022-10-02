@@ -1,0 +1,1 @@
+from dergi_site.wsgi import application

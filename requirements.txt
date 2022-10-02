@@ -1,0 +1,5 @@
+db
+db-sqlite3
+Django
+django-cleanup
+whitenoise
